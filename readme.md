@@ -1,6 +1,6 @@
-To compile contracts use `npm run compile`
-To recompile contracts from scratch use `npm run clean` and then `npm run compile`
-To go inside Hardhat console use `npm run console`
+To compile contracts use `npm run compile` <br />
+To recompile contracts from scratch use `npm run clean` and then `npm run compile` <br />
+To go inside Hardhat console use `npm run console` <br />
 
 Inside console:
 
